@@ -1,7 +1,6 @@
 {
   "name": "Harmonize",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,5 +8,20 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9",
+    "react": "^16.12.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidwu92/Harmonize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidwu92/Harmonize/issues"
+  },
+  "homepage": "https://github.com/davidwu92/Harmonize#readme",
+  "description": ""
 }
